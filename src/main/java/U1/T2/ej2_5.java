@@ -8,6 +8,6 @@ public class ej2_5 {
         System.out.println("Introduzca los grados Centrigrados : ");
         int num1 = teclado.nextInt();
         System.out.println("Paso de grados centrigrados a farenheit : " +num1 * 9/37);
-    }10
+    }
 
 }
